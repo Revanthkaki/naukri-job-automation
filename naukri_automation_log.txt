@@ -1,0 +1,1352 @@
+
+================================================================================
+AUTOMATION LOG - 2025-11-13 00:59:31
+================================================================================
+
+Total Jobs Found: 20
+✅ Successfully Applied: 6
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 4
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+1. Software Engineer
+   Company: ti Steps
+   Status: Successfully Applied
+
+2. Software Engineer, developer / Programmer, 2025 graduate Can also appl
+   Company: Creative Hands HR
+   Status: Successfully Applied
+
+3. Software Engineer
+   Company: Uber
+   Status: No Apply Button
+
+4. Software Engineer
+   Company: Shanti Industries
+   Status: Successfully Applied
+
+5. Software Engineer
+   Company: Uplers
+   Status: Successfully Applied
+
+6. Software Engineer
+   Company: Lytx
+   Status: No Apply Button
+
+7. Software Engineer and Analyst
+   Company: nexus hub
+   Status: Successfully Applied
+
+8. Software Engineer
+   Company: Prodapt Solutions
+   Status: Successfully Applied
+
+9. Software Engineer
+   Company: Antares Systems
+   Status: No Apply Button
+
+10. AI Software Engineer
+   Company: Godigi Infotech
+   Status: No Apply Button
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-11-13 01:07:18
+================================================================================
+
+Total Jobs Found: 40
+✅ Successfully Applied: 8
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 12
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+1. Software Engineer
+   Company: ti Steps
+   Status: Successfully Applied
+
+2. Software Engineer, developer / Programmer, 2025 graduate Can also appl
+   Company: Creative Hands HR
+   Status: Successfully Applied
+
+3. Software Engineer
+   Company: Uber
+   Status: No Apply Button
+
+4. Software Engineer
+   Company: Shanti Industries
+   Status: Successfully Applied
+
+5. Software Engineer
+   Company: Uplers
+   Status: Successfully Applied
+
+6. Software Engineer
+   Company: Lytx
+   Status: No Apply Button
+
+7. Software Engineer and Analyst
+   Company: nexus hub
+   Status: Successfully Applied
+
+8. Software Engineer
+   Company: Prodapt Solutions
+   Status: Successfully Applied
+
+9. Software Engineer
+   Company: Antares Systems
+   Status: No Apply Button
+
+10. AI Software Engineer
+   Company: Godigi Infotech
+   Status: No Apply Button
+
+11. Software Engineer
+   Company: Uber
+   Status: No Apply Button
+
+12. Software Engineer
+   Company: Uplers
+   Status: Successfully Applied
+
+13. Software Engineer
+   Company: Lytx
+   Status: No Apply Button
+
+14. Software Engineer and Analyst
+   Company: nexus hub
+   Status: Successfully Applied
+
+15. Software Engineer
+   Company: Antares Systems
+   Status: No Apply Button
+
+16. AI Software Engineer
+   Company: Godigi Infotech
+   Status: No Apply Button
+
+17. Software Engineer
+   Company: Motorola Solutions
+   Status: No Apply Button
+
+18. Software Engineer
+   Company: Numerator
+   Status: No Apply Button
+
+19. Software Engineer, University Graduate, 2026
+   Company: Google
+   Status: No Apply Button
+
+20. Software Engineer
+   Company: Blink Health
+   Status: No Apply Button
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-11-13 01:16:09
+================================================================================
+
+Total Jobs Found: 60
+✅ Successfully Applied: 10
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 20
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+1. Software Engineer
+   Company: ti Steps
+   Status: Successfully Applied
+
+2. Software Engineer, developer / Programmer, 2025 graduate Can also appl
+   Company: Creative Hands HR
+   Status: Successfully Applied
+
+3. Software Engineer
+   Company: Uber
+   Status: No Apply Button
+
+4. Software Engineer
+   Company: Shanti Industries
+   Status: Successfully Applied
+
+5. Software Engineer
+   Company: Uplers
+   Status: Successfully Applied
+
+6. Software Engineer
+   Company: Lytx
+   Status: No Apply Button
+
+7. Software Engineer and Analyst
+   Company: nexus hub
+   Status: Successfully Applied
+
+8. Software Engineer
+   Company: Prodapt Solutions
+   Status: Successfully Applied
+
+9. Software Engineer
+   Company: Antares Systems
+   Status: No Apply Button
+
+10. AI Software Engineer
+   Company: Godigi Infotech
+   Status: No Apply Button
+
+11. Software Engineer
+   Company: Uber
+   Status: No Apply Button
+
+12. Software Engineer
+   Company: Uplers
+   Status: Successfully Applied
+
+13. Software Engineer
+   Company: Lytx
+   Status: No Apply Button
+
+14. Software Engineer and Analyst
+   Company: nexus hub
+   Status: Successfully Applied
+
+15. Software Engineer
+   Company: Antares Systems
+   Status: No Apply Button
+
+16. AI Software Engineer
+   Company: Godigi Infotech
+   Status: No Apply Button
+
+17. Software Engineer
+   Company: Motorola Solutions
+   Status: No Apply Button
+
+18. Software Engineer
+   Company: Numerator
+   Status: No Apply Button
+
+19. Software Engineer, University Graduate, 2026
+   Company: Google
+   Status: No Apply Button
+
+20. Software Engineer
+   Company: Blink Health
+   Status: No Apply Button
+
+21. Software Engineer
+   Company: Uber
+   Status: No Apply Button
+
+22. Software Engineer
+   Company: Uplers
+   Status: Successfully Applied
+
+23. Software Engineer
+   Company: Lytx
+   Status: No Apply Button
+
+24. Software Engineer and Analyst
+   Company: nexus hub
+   Status: Successfully Applied
+
+25. Software Engineer
+   Company: Antares Systems
+   Status: No Apply Button
+
+26. AI Software Engineer
+   Company: Godigi Infotech
+   Status: No Apply Button
+
+27. Software Engineer
+   Company: Motorola Solutions
+   Status: No Apply Button
+
+28. Software Engineer
+   Company: Numerator
+   Status: No Apply Button
+
+29. Software Engineer, University Graduate, 2026
+   Company: Google
+   Status: No Apply Button
+
+30. Software Engineer
+   Company: Blink Health
+   Status: No Apply Button
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-11-13 01:16:26
+================================================================================
+
+Total Jobs Found: 60
+✅ Successfully Applied: 10
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 20
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+1. Software Engineer
+   Company: ti Steps
+   Status: Successfully Applied
+
+2. Software Engineer, developer / Programmer, 2025 graduate Can also appl
+   Company: Creative Hands HR
+   Status: Successfully Applied
+
+3. Software Engineer
+   Company: Uber
+   Status: No Apply Button
+
+4. Software Engineer
+   Company: Shanti Industries
+   Status: Successfully Applied
+
+5. Software Engineer
+   Company: Uplers
+   Status: Successfully Applied
+
+6. Software Engineer
+   Company: Lytx
+   Status: No Apply Button
+
+7. Software Engineer and Analyst
+   Company: nexus hub
+   Status: Successfully Applied
+
+8. Software Engineer
+   Company: Prodapt Solutions
+   Status: Successfully Applied
+
+9. Software Engineer
+   Company: Antares Systems
+   Status: No Apply Button
+
+10. AI Software Engineer
+   Company: Godigi Infotech
+   Status: No Apply Button
+
+11. Software Engineer
+   Company: Uber
+   Status: No Apply Button
+
+12. Software Engineer
+   Company: Uplers
+   Status: Successfully Applied
+
+13. Software Engineer
+   Company: Lytx
+   Status: No Apply Button
+
+14. Software Engineer and Analyst
+   Company: nexus hub
+   Status: Successfully Applied
+
+15. Software Engineer
+   Company: Antares Systems
+   Status: No Apply Button
+
+16. AI Software Engineer
+   Company: Godigi Infotech
+   Status: No Apply Button
+
+17. Software Engineer
+   Company: Motorola Solutions
+   Status: No Apply Button
+
+18. Software Engineer
+   Company: Numerator
+   Status: No Apply Button
+
+19. Software Engineer, University Graduate, 2026
+   Company: Google
+   Status: No Apply Button
+
+20. Software Engineer
+   Company: Blink Health
+   Status: No Apply Button
+
+21. Software Engineer
+   Company: Uber
+   Status: No Apply Button
+
+22. Software Engineer
+   Company: Uplers
+   Status: Successfully Applied
+
+23. Software Engineer
+   Company: Lytx
+   Status: No Apply Button
+
+24. Software Engineer and Analyst
+   Company: nexus hub
+   Status: Successfully Applied
+
+25. Software Engineer
+   Company: Antares Systems
+   Status: No Apply Button
+
+26. AI Software Engineer
+   Company: Godigi Infotech
+   Status: No Apply Button
+
+27. Software Engineer
+   Company: Motorola Solutions
+   Status: No Apply Button
+
+28. Software Engineer
+   Company: Numerator
+   Status: No Apply Button
+
+29. Software Engineer, University Graduate, 2026
+   Company: Google
+   Status: No Apply Button
+
+30. Software Engineer
+   Company: Blink Health
+   Status: No Apply Button
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-11-13 01:19:09
+================================================================================
+
+Total Jobs Found: 20
+✅ Successfully Applied: 2
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 8
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+1. Software Engineer
+   Company: Uber
+   Status: No Apply Button
+
+2. Software Engineer
+   Company: Uplers
+   Status: Successfully Applied
+
+3. Software Engineer
+   Company: Lytx
+   Status: No Apply Button
+
+4. Software Engineer and Analyst
+   Company: nexus hub
+   Status: Successfully Applied
+
+5. Software Engineer
+   Company: Antares Systems
+   Status: No Apply Button
+
+6. AI Software Engineer
+   Company: Godigi Infotech
+   Status: No Apply Button
+
+7. Software Engineer
+   Company: Motorola Solutions
+   Status: No Apply Button
+
+8. Software Engineer
+   Company: Numerator
+   Status: No Apply Button
+
+9. Software Engineer, University Graduate, 2026
+   Company: Google
+   Status: No Apply Button
+
+10. Software Engineer
+   Company: Blink Health
+   Status: No Apply Button
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-11-13 01:20:13
+================================================================================
+
+Total Jobs Found: 20
+✅ Successfully Applied: 2
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 8
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+1. Software Engineer
+   Company: Uber
+   Status: No Apply Button
+
+2. Software Engineer
+   Company: Uplers
+   Status: Successfully Applied
+
+3. Software Engineer
+   Company: Lytx
+   Status: No Apply Button
+
+4. Software Engineer and Analyst
+   Company: nexus hub
+   Status: Successfully Applied
+
+5. Software Engineer
+   Company: Antares Systems
+   Status: No Apply Button
+
+6. AI Software Engineer
+   Company: Godigi Infotech
+   Status: No Apply Button
+
+7. Software Engineer
+   Company: Motorola Solutions
+   Status: No Apply Button
+
+8. Software Engineer
+   Company: Numerator
+   Status: No Apply Button
+
+9. Software Engineer, University Graduate, 2026
+   Company: Google
+   Status: No Apply Button
+
+10. Software Engineer
+   Company: Blink Health
+   Status: No Apply Button
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-11-23 16:40:17
+================================================================================
+
+Total Jobs Found: 0
+✅ Successfully Applied: 0
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 0
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:00:30
+================================================================================
+
+Total Jobs Found: 0
+✅ Successfully Applied: 0
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 0
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:00:38
+================================================================================
+
+Total Jobs Found: 0
+✅ Successfully Applied: 0
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 0
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:04:59
+================================================================================
+
+Total Jobs Found: 0
+✅ Successfully Applied: 0
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 0
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:07:16
+================================================================================
+
+Total Jobs Found: 0
+✅ Successfully Applied: 0
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 0
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:08:04
+================================================================================
+
+Total Jobs Found: 0
+✅ Successfully Applied: 0
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 0
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:10:52
+================================================================================
+
+Total Jobs Found: 0
+✅ Successfully Applied: 0
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 0
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:17:21
+================================================================================
+
+Total Jobs Found: 0
+✅ Successfully Applied: 0
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 0
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:17:58
+================================================================================
+
+Total Jobs Found: 0
+✅ Successfully Applied: 0
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 0
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:21:10
+================================================================================
+
+Total Jobs Found: 20
+✅ Successfully Applied: 5
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 5
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+1. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+2. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+3. AI Engineer
+   Company: Novel Office
+   Status: Successfully Applied
+
+4. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+5. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+6. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+7. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+8. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+9. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+10. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:32:06
+================================================================================
+
+Total Jobs Found: 40
+✅ Successfully Applied: 9
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 11
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+1. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+2. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+3. AI Engineer
+   Company: Novel Office
+   Status: Successfully Applied
+
+4. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+5. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+6. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+7. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+8. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+9. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+10. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+11. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+12. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+13. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+14. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+15. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+16. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+17. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+18. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+19. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+20. AI Engineer
+   Company: Legistify
+   Status: No Apply Button
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:43:03
+================================================================================
+
+Total Jobs Found: 60
+✅ Successfully Applied: 13
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 17
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+1. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+2. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+3. AI Engineer
+   Company: Novel Office
+   Status: Successfully Applied
+
+4. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+5. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+6. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+7. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+8. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+9. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+10. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+11. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+12. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+13. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+14. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+15. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+16. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+17. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+18. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+19. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+20. AI Engineer
+   Company: Legistify
+   Status: No Apply Button
+
+21. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+22. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+23. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+24. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+25. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+26. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+27. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+28. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+29. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+30. AI Engineer
+   Company: Legistify
+   Status: No Apply Button
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 17:54:02
+================================================================================
+
+Total Jobs Found: 80
+✅ Successfully Applied: 17
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 23
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+1. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+2. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+3. AI Engineer
+   Company: Novel Office
+   Status: Successfully Applied
+
+4. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+5. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+6. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+7. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+8. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+9. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+10. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+11. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+12. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+13. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+14. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+15. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+16. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+17. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+18. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+19. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+20. AI Engineer
+   Company: Legistify
+   Status: No Apply Button
+
+21. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+22. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+23. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+24. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+25. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+26. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+27. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+28. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+29. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+30. AI Engineer
+   Company: Legistify
+   Status: No Apply Button
+
+31. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+32. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+33. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+34. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+35. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+36. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+37. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+38. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+39. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+40. AI Engineer
+   Company: Legistify
+   Status: No Apply Button
+
+================================================================================
+
+
+================================================================================
+AUTOMATION LOG - 2025-12-01 18:03:39
+================================================================================
+
+Total Jobs Found: 100
+✅ Successfully Applied: 20
+⏭️ Already Applied: 0
+❌ Failed: 0
+🚫 No Apply Button: 28
+⚠️ Errors: 0
+
+📋 DETAILED JOB STATUS:
+
+1. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+2. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+3. AI Engineer
+   Company: Novel Office
+   Status: Successfully Applied
+
+4. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+5. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+6. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+7. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+8. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+9. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+10. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+11. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+12. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+13. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+14. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+15. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+16. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+17. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+18. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+19. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+20. AI Engineer
+   Company: Legistify
+   Status: No Apply Button
+
+21. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+22. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+23. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+24. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+25. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+26. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+27. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+28. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+29. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+30. AI Engineer
+   Company: Legistify
+   Status: No Apply Button
+
+31. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+32. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+33. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+34. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+35. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+36. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+37. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+38. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+39. Junior AI Engineer
+   Company: Aditadv Tech
+   Status: Successfully Applied
+
+40. AI Engineer
+   Company: Legistify
+   Status: No Apply Button
+
+41. Junior AI Engineer (India)
+   Company: Micro1
+   Status: No Apply Button
+
+42. Jr AI Engineer
+   Company: Newpage Digital Healthcare Solutions
+   Status: Successfully Applied
+
+43. AI Engineer : Generative AI / LLM
+   Company: Dsights
+   Status: Successfully Applied
+
+44. Junior AI Engineer
+   Company: Quest Global
+   Status: Successfully Applied
+
+45. Associate AI Engineer
+   Company: Emmes Group
+   Status: No Apply Button
+
+46. AI Engineer
+   Company: Algorizz
+   Status: No Apply Button
+
+47. AI Engineer
+   Company: Grapevine Round1 Ai
+   Status: No Apply Button
+
+48. AI Prompt Engineer
+   Company: Qure.ai
+   Status: No Apply Button
+
+================================================================================
+
