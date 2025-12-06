@@ -3,7 +3,6 @@
 > Automate your job applications on Naukri.com with AI-powered answers and intelligent CAPTCHA solving!
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Selenium](https://img.shields.io/badge/selenium-4.15.2-yellow.svg)
 
@@ -37,9 +36,6 @@
 - 📈 **Statistics Tracking** - Real-time monitoring of success/failure rates
 - 🔒 **Stealth Mode** - Anti-detection measures to appear human-like
 
-## 🎥 Demo
-
-*(Add a screenshot or GIF of the bot in action here)*
 
 ## 📋 Prerequisites
 
